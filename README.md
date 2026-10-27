@@ -17,4 +17,4 @@ Now I'm heading toward **go-to-market, BD and product roles in AI and defense te
 
 **How I work:** start with the user's actual day, ship a light version that works on a phone, keep a human in the loop for anything that leaves the building, and measure whether it changed behavior.
 
-📫 [LinkedIn](https://www.linkedin.com/in/<your-handle>) · 📅 [Book 30 min](https://cal.com/csmithburks/30min)
+📫 [LinkedIn](https://www.linkedin.com/in/christophersmith-burks) · 📅 [Book 30 min](https://cal.com/csmithburks/30min)
