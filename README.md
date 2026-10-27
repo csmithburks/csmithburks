@@ -4,7 +4,7 @@ Wharton MBA/Lauder '28, focused on **go-to-market, BD and product roles in AI an
 
 Before Wharton I spent four years at **Deloitte** getting AI and software from pilot to real adoption inside the federal government, one of the hardest buyers in tech:
 
-- **Built and scaled a GenAI workflow** for the Pentagon's Chief Digital & AI Office, from idea to leadership approval. It automated 40% of the team's weekly tasks and saved **400+ hours a week**.
+- **Built and scaled a GenAI workflow** for the Pentagon's Chief Digital & AI Office, from idea to leadership approval. It automated 40% of weekly tasks and saved **400+ hours a week**.
 - **Led a 13-person team of diplomats, consultants and engineers** to launch GenAI-enabled event software at the State Department, then grew it to **770+ users across 26+ offices** (engagement up 300%+ year over year).
 - **Shaped $20M+ in technology pursuits**, from solution narrative to RFP, and coached pre-seed ventures on customer discovery and go-to-market.
 
