@@ -1,8 +1,16 @@
 ### Hi, I'm Chris 👋
 
-Wharton MBA/Lauder '28. Before that I spent several years on the defense side: I started at the **Defense Intelligence Agency** as a John McCain Strategic Defense Fellow, then supported the Pentagon on munitions analysis and weapons-sales packages, most recently at the **DoD Chief Digital and AI Office**.
+Wharton MBA/Lauder '28, focused on **go-to-market, BD and product roles in AI and defense tech**.
 
-Now I'm heading toward **go-to-market, BD and product roles in AI and defense tech**, and I build the tools I wish existed: usually AI agents that take a messy workflow off a person's plate while keeping them in control.
+Before Wharton I spent four years at **Deloitte** getting AI and software from pilot to real adoption inside the federal government, one of the hardest buyers in tech:
+
+- **Built and scaled a GenAI workflow** for the Pentagon's Chief Digital & AI Office, from idea to leadership approval. It automated 40% of the team's weekly tasks and saved **400+ hours a week**.
+- **Led a 13-person team of diplomats, consultants and engineers** to launch GenAI-enabled event software at the State Department, then grew it to **770+ users across 26+ offices** (engagement up 300%+ year over year).
+- **Shaped $20M+ in technology pursuits**, from solution narrative to RFP, and coached pre-seed ventures on customer discovery and go-to-market.
+
+I started my career as an analyst at the Defense Intelligence Agency (John McCain Strategic Fellow), and I speak professional Mandarin (MA, Yenching Academy at Peking University).
+
+Now I build the tools I wish existed, usually AI agents that take a messy workflow off a person's plate while keeping them in control:
 
 **What I'm building**
 
