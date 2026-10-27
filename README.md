@@ -8,7 +8,7 @@ Before Wharton I spent four years at **Deloitte** getting AI and software from p
 - **Led a 13-person team of diplomats, consultants and engineers** to launch GenAI-enabled event software at the State Department, then grew it to **770+ users across 26+ offices** (engagement up 300%+ year over year).
 - **Shaped $20M+ in technology pursuits**, from solution narrative to RFP, and coached pre-seed ventures on customer discovery and go-to-market.
 
-I started my career as an analyst at the Defense Intelligence Agency (John McCain Strategic Fellow), and I speak professional Mandarin (MA, Yenching Academy at Peking University).
+I started my career as an analyst at the Department of Defense (John McCain Strategic Fellow), and I speak professional Mandarin (MA, Yenching Academy at Peking University).
 
 Now I build the tools I wish existed, usually AI agents that take a messy workflow off a person's plate while keeping them in control:
 
