@@ -10,8 +10,8 @@ Now I'm heading toward **go-to-market, BD and product roles in AI and defense te
 |---|---|
 | [**career-os**](https://github.com/csmithburks/career-os) | An AI chief of staff for recruiting: nightly agent that runs my networking CRM, dashboard, prep briefs and drafted follow-ups across 2 inboxes, 2 calendars and meeting notes |
 | [**vf-thesis-stress-test**](https://github.com/csmithburks/vf-thesis-stress-test) | A Claude skill that red-teams defense tech investment theses against recent news and four skeptical critics |
-| **lift-log** | A Strong-style iPhone workout tracker |
-| **closet-copilot** | An AI stylist: a digital wardrobe plus an outfit engine, built to run for $0 |
+| [**lift-log**](https://github.com/csmithburks/lift-log) | A Strong-style iPhone workout tracker |
+| [**closet-copilot**](https://github.com/csmithburks/closet-copilot) | An AI stylist: a digital wardrobe plus an outfit engine, built to run for $0 |
 | **knowledge-capture** | Product spec: keeping institutional knowledge when people leave |
 | **video-to-knowledge** | Pipeline that turns short-form video into a searchable, queryable library |
 
